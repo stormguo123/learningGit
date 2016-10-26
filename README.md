@@ -5,3 +5,4 @@ test cancel fast forward merge
 Git is a free software
 more persons corperate for one project.
 master branch change the text
+commit all info for dev node
