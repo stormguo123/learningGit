@@ -4,3 +4,4 @@ Creating a new branch is quick and simple.
 test cancel fast forward merge
 Git is a free software
 more persons corperate for one project. 
+commit all info for dev node
